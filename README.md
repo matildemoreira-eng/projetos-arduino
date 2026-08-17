@@ -6,11 +6,11 @@ Projetos e circuitos de eletrónica/Arduino desenvolvidos no Tinkercad para Enge
 Sistema de leitura de temperatura ambiente com alerta luminoso via LEDs.
 
 ### Componentes
-*Arduino Uno
-*Sensor de Temperatura Analógico (TMP36)
-*2x LEDs (Verde e Vermelho)
-*2x Resistores (220 Ω)
-*Multímetro Virtual
+* Arduino Uno
+* Sensor de Temperatura Analógico (TMP36)
+* 2x LEDs (Verde e Vermelho)
+* 2x Resistores (220 Ω)
+* Multímetro Virtual
 
 ### Circuito Montado
 ![Circuito](projeto1-temperatura.png)
@@ -25,13 +25,13 @@ Sistema de leitura de temperatura ambiente com alerta luminoso via LEDs.
 Evolução do sistema de monitorização de temperatura com apresentação de dados em ecrã LCD e alerta sonoro.
 
 ### Componentes
-*Arduino Uno
-*Sensor de Temperatura Analógico (TMP36)
-*Ecrã LCD 16X2 (Interface Paralela)
-*Buzzer Piezoelétrico
-*2x LEDs (Verde e Vermelho)
-*2x Resistores (220 Ω)
-*1x Resitor (1 kΩ)
+* Arduino Uno
+* Sensor de Temperatura Analógico (TMP36)
+* Ecrã LCD 16X2 (Interface Paralela)
+* Buzzer Piezoelétrico
+* 2x LEDs (Verde e Vermelho)
+* 2x Resistores (220 Ω)
+* 1x Resitor (1 kΩ)
 
 ### Circuito Montado
 ![Projeto 2- LCD e Alarme](projeto2-estação-lcd.png)
@@ -42,5 +42,5 @@ Evolução do sistema de monitorização de temperatura com apresentação de da
    * O ecrã mostra a indicação "Crítica!".
    * O **Buzzer** emite um sinal sonoro de alarme ("tone"). 
    * O **LED Vermelho** acende.
-*Caso contrário, mostra "Normal", desliga o alarme e **LED Verde** acende.    
+* Caso contrário, mostra "Normal", desliga o alarme e **LED Verde** acende.    
 
