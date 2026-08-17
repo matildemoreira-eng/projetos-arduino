@@ -39,8 +39,8 @@ Evolução do sistema de monitorização de temperatura com apresentação de da
 ### Funcionamento
 * Exibe em tempo real a temperatura atualizada no **Ecrã LCD 16x2**.
 * Se a temperatura ultrapassar os **25°C**:
- *O ecrã mostra a indicação "Crítica!".
- *O **Buzzer** emite um sinal sonoro de alarme ("tone"). 
- *O **LED Vermelho** acende.
+   *O ecrã mostra a indicação "Crítica!".
+   *O **Buzzer** emite um sinal sonoro de alarme ("tone"). 
+   *O **LED Vermelho** acende.
 *Caso contrário, mostra "Normal", desliga o alarme e **LED Verde** acende.    
 
