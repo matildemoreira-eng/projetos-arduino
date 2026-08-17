@@ -34,7 +34,7 @@ Evolução do sistema de monitorização de temperatura com apresentação de da
 * 1x Resitor (1 kΩ)
 
 ### Circuito Montado
-![Projeto 2- LCD e Alarme](projeto2-estação-lcd.png)
+![Projeto 2- LCD e Alarme](projeto2-estação_lcd.png)
 
 ### Funcionamento
 * Exibe em tempo real a temperatura atualizada no **Ecrã LCD 16x2**.
